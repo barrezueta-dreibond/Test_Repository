@@ -10,6 +10,7 @@ VERSION : 0.1
    VAR_OUTPUT 
       qBool : Bool;
       qInt : Int;
+      qIntDiv : Int;
    END_VAR
 
 
@@ -20,7 +21,8 @@ BEGIN
 	//Add integers
 	#qInt := #iInt_1 + #iInt_2;
 	
-	//FFS untzuntzuntzuntzuntz
+	//Divide integers
+	//#qIntDiv := #iInt_1 / #iInt_2;
 	
 END_FUNCTION_BLOCK
 

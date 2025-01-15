@@ -8,7 +8,7 @@
       <WriterVendorURL>www.siemens.com</WriterVendorURL>
       <WriterVersion>1700</WriterVersion>
       <WriterRelease>1700.0.4302.1</WriterRelease>
-      <LastWritingDateTime>2025-01-15T11:37:16.2389068Z</LastWritingDateTime>
+      <LastWritingDateTime>2025-01-15T11:44:39.0960772Z</LastWritingDateTime>
     </WriterHeader>
   </AdditionalInformation>
   <AdditionalInformation AutomationMLVersion="2.0" />
@@ -17,12 +17,12 @@
     <Document DocumentIdentifier="ARE APC Drive" Version="1.2.0" />
   </AdditionalInformation>
   <InstanceHierarchy Name="APC Sample Instance Hierarchy">
-    <InternalElement ID="8c2620a7-88d3-461d-8d17-d106fcecc869" Name="Test_Git">
-      <InternalElement ID="f93fcdf3-7020-400f-a557-8cdaeb0602bd" Name="PN/IE_1">
+    <InternalElement ID="a5b4c21e-2c89-4fbf-b9b8-3b35ac8102bb" Name="Test_Git">
+      <InternalElement ID="f4e8065c-405a-4545-8196-b38d0fd91395" Name="PN/IE_1">
         <Attribute Name="Type" AttributeDataType="xs:string">
           <Value>Ethernet</Value>
         </Attribute>
-        <ExternalInterface ID="6db8505e-ea66-4f4d-b232-d095151c01b6" Name="LogicalEndPoint_Subnet" RefBaseClassPath="CommunicationInterfaceClassLib/LogicalEndPoint" />
+        <ExternalInterface ID="c11881b2-6277-4b79-9a66-fa3760ac935e" Name="LogicalEndPoint_Subnet" RefBaseClassPath="CommunicationInterfaceClassLib/LogicalEndPoint" />
         <SupportedRoleClass RefRoleClassPath="AutomationProjectConfigurationRoleClassLib/Subnet" />
       </InternalElement>
       <InternalElement ID="99ed917f-c044-4498-af20-cb953f34cc09" Name="S7-1500/ET200MP station_1">
@@ -73,8 +73,8 @@
             <Attribute Name="FirmwareVersion" AttributeDataType="xs:string">
               <Value>V2.9</Value>
             </Attribute>
-            <InternalElement ID="cdcd289c-afa5-4280-af97-bebbe0669d01" Name="Default tag table">
-              <ExternalInterface ID="ed3b4c39-da1a-4a8c-bfa2-307d418ad3b6" Name="Tag_1" RefBaseClassPath="AutomationProjectConfigurationInterfaceClassLib/Tag">
+            <InternalElement ID="34d683f2-b8c5-4d1e-90bf-6cb1d46167ae" Name="Default tag table">
+              <ExternalInterface ID="399a0f39-18da-45fb-9a63-8d3fdf30735e" Name="Tag_1" RefBaseClassPath="AutomationProjectConfigurationInterfaceClassLib/Tag">
                 <Attribute Name="DataType" AttributeDataType="xs:string">
                   <Value>Bool</Value>
                 </Attribute>
@@ -87,7 +87,7 @@
               </ExternalInterface>
               <SupportedRoleClass RefRoleClassPath="AutomationProjectConfigurationRoleClassLib/TagTable" />
             </InternalElement>
-            <InternalElement ID="e0bf872d-5a6c-4693-b737-fb3fa95375de" Name="CPU display_1">
+            <InternalElement ID="f9407603-73a5-458a-a8ef-2de3e411f306" Name="CPU display_1">
               <Attribute Name="PositionNumber" AttributeDataType="xs:int">
                 <Value>3</Value>
               </Attribute>
@@ -96,7 +96,7 @@
               </Attribute>
               <SupportedRoleClass RefRoleClassPath="AutomationProjectConfigurationRoleClassLib/DeviceItem" />
             </InternalElement>
-            <InternalElement ID="4dbddfad-08b1-4b1f-8214-387fa72f28a6" Name="Card reader/writer_1">
+            <InternalElement ID="47874cfd-c279-4ad5-9914-a37f77664d66" Name="Card reader/writer_1">
               <Attribute Name="PositionNumber" AttributeDataType="xs:int">
                 <Value>4</Value>
               </Attribute>
@@ -105,7 +105,7 @@
               </Attribute>
               <SupportedRoleClass RefRoleClassPath="AutomationProjectConfigurationRoleClassLib/DeviceItem" />
             </InternalElement>
-            <InternalElement ID="6f3c2568-0377-4fc3-b2a0-e88a84a98328" Name="OPC UA_1">
+            <InternalElement ID="e240d6e1-67f4-438b-ae58-762e72f728c4" Name="OPC UA_1">
               <Attribute Name="PositionNumber" AttributeDataType="xs:int">
                 <Value>254</Value>
               </Attribute>
@@ -114,7 +114,7 @@
               </Attribute>
               <SupportedRoleClass RefRoleClassPath="AutomationProjectConfigurationRoleClassLib/DeviceItem" />
             </InternalElement>
-            <InternalElement ID="95c9543b-5eba-4d36-8722-01e9425f1b48" Name="PROFINET interface_1">
+            <InternalElement ID="e60db6f2-67c5-4c39-a031-a3b9f21169dd" Name="PROFINET interface_1">
               <Attribute Name="Label" AttributeDataType="xs:string">
                 <Value>X1</Value>
               </Attribute>
@@ -124,7 +124,7 @@
               <Attribute Name="BuiltIn" AttributeDataType="xs:boolean">
                 <Value>true</Value>
               </Attribute>
-              <InternalElement ID="e341d513-2093-40ff-8360-d9c8f8039976" Name="E1">
+              <InternalElement ID="d4307e60-712c-4106-b372-30c8360ad400" Name="E1">
                 <Attribute Name="SubnetMask" AttributeDataType="xs:string">
                   <Value>255.255.255.0</Value>
                 </Attribute>
@@ -143,7 +143,7 @@
                 <SupportedRoleClass RefRoleClassPath="AutomationProjectConfigurationRoleClassLib/Node" />
                 <SupportedRoleClass RefRoleClassPath="AutomationProjectConfigurationEthernetRoleClassLib/NodeEthernet" />
               </InternalElement>
-              <InternalElement ID="4558e70c-f6b8-45b2-ba64-3b60e9b23b56" Name="Port_1">
+              <InternalElement ID="98df7f03-c16d-4b8c-aae4-f175e0dfc06e" Name="Port_1">
                 <Attribute Name="Label" AttributeDataType="xs:string">
                   <Value>P1 R</Value>
                 </Attribute>
@@ -155,7 +155,7 @@
                 </Attribute>
                 <SupportedRoleClass RefRoleClassPath="AutomationProjectConfigurationRoleClassLib/CommunicationPort" />
               </InternalElement>
-              <InternalElement ID="8744f5aa-170c-4649-91c1-e1196c93aad6" Name="Port_2">
+              <InternalElement ID="506301a2-6b24-4a30-8ba4-ca0514fdb5c5" Name="Port_2">
                 <Attribute Name="Label" AttributeDataType="xs:string">
                   <Value>P2 R</Value>
                 </Attribute>
@@ -169,7 +169,7 @@
               </InternalElement>
               <SupportedRoleClass RefRoleClassPath="AutomationProjectConfigurationRoleClassLib/CommunicationInterface" />
             </InternalElement>
-            <InternalElement ID="750efd7e-20b6-4b13-9709-d246088cefa0" Name="PROFINET interface_2">
+            <InternalElement ID="d9e13127-9c28-4a44-892b-08825b1a00d0" Name="PROFINET interface_2">
               <Attribute Name="Label" AttributeDataType="xs:string">
                 <Value>X2</Value>
               </Attribute>
@@ -179,7 +179,7 @@
               <Attribute Name="BuiltIn" AttributeDataType="xs:boolean">
                 <Value>true</Value>
               </Attribute>
-              <InternalElement ID="69eef02a-170f-4483-a0d0-75b767303d5c" Name="E1">
+              <InternalElement ID="2b0f1d24-6ec8-41e4-a5bd-6e6b86695ba5" Name="E1">
                 <Attribute Name="SubnetMask" AttributeDataType="xs:string">
                   <Value>255.255.255.0</Value>
                 </Attribute>
@@ -195,11 +195,11 @@
                 <Attribute Name="NetworkAddress" AttributeDataType="xs:string">
                   <Value>192.168.1.1</Value>
                 </Attribute>
-                <ExternalInterface ID="85b63bef-119e-46d4-87fb-4eabb8d6912d" Name="LogicalEndPoint_Node" RefBaseClassPath="CommunicationInterfaceClassLib/LogicalEndPoint" />
+                <ExternalInterface ID="9883b33c-d2fe-4227-a948-6eed094e7f35" Name="LogicalEndPoint_Node" RefBaseClassPath="CommunicationInterfaceClassLib/LogicalEndPoint" />
                 <SupportedRoleClass RefRoleClassPath="AutomationProjectConfigurationRoleClassLib/Node" />
                 <SupportedRoleClass RefRoleClassPath="AutomationProjectConfigurationEthernetRoleClassLib/NodeEthernet" />
               </InternalElement>
-              <InternalElement ID="63715a9a-5b66-4cd5-95f3-5c68a9c05812" Name="Port_1">
+              <InternalElement ID="27d12cc6-c29f-4212-97fc-1b494c8eb5bf" Name="Port_1">
                 <Attribute Name="Label" AttributeDataType="xs:string">
                   <Value>P1</Value>
                 </Attribute>
@@ -213,7 +213,7 @@
               </InternalElement>
               <SupportedRoleClass RefRoleClassPath="AutomationProjectConfigurationRoleClassLib/CommunicationInterface" />
             </InternalElement>
-            <InternalElement ID="ebcfed1a-1c88-400a-b0bb-f82ec0bf6228" Name="DP interface_1">
+            <InternalElement ID="c20ef580-3d31-48cf-adbe-94d3aab7bc54" Name="DP interface_1">
               <Attribute Name="Label" AttributeDataType="xs:string">
                 <Value>X3</Value>
               </Attribute>
@@ -223,7 +223,7 @@
               <Attribute Name="BuiltIn" AttributeDataType="xs:boolean">
                 <Value>true</Value>
               </Attribute>
-              <InternalElement ID="17cbd620-79e5-47c4-aa1c-36e7464e9b86" Name="P1">
+              <InternalElement ID="0c1c8799-a1c6-412a-9050-9fad3ac12310" Name="P1">
                 <Attribute Name="Type" AttributeDataType="xs:string">
                   <Value>Profibus</Value>
                 </Attribute>
@@ -242,7 +242,7 @@
         <SupportedRoleClass RefRoleClassPath="AutomationProjectConfigurationRoleClassLib/Device" />
       </InternalElement>
       <SupportedRoleClass RefRoleClassPath="AutomationProjectConfigurationRoleClassLib/AutomationProject" />
-      <InternalLink Name="Link To Subnet_1" RefPartnerSideA="69eef02a-170f-4483-a0d0-75b767303d5c:LogicalEndPoint_Node" RefPartnerSideB="f93fcdf3-7020-400f-a557-8cdaeb0602bd:LogicalEndPoint_Subnet" />
+      <InternalLink Name="Link To Subnet_1" RefPartnerSideA="2b0f1d24-6ec8-41e4-a5bd-6e6b86695ba5:LogicalEndPoint_Node" RefPartnerSideB="f4e8065c-405a-4545-8196-b38d0fd91395:LogicalEndPoint_Subnet" />
     </InternalElement>
   </InstanceHierarchy>
 </CAEXFile>

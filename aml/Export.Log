@@ -1,27 +1,27 @@
-15.01.2025 12:37:12 PM: INFO : The export is being processed
-15.01.2025 12:37:13 PM: INFO : Subnet: PN/IE_1 is being exported.
-15.01.2025 12:37:13 PM: INFO : S7-1500/ET200MP station_1 is being exported.
-15.01.2025 12:37:14 PM: INFO : Rail_0 is being exported.
-15.01.2025 12:37:14 PM: DEBUG: Unsupported attributes. The 'PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation, Failsafe_FSourceAddress, Failsafe_FDestinationAddress' attributes could not be called for the device 'Rail_0'.
-15.01.2025 12:37:14 PM: INFO : PLC_1 is being exported.
-15.01.2025 12:37:14 PM: INFO : Default tag table is being exported.
-15.01.2025 12:37:15 PM: DEBUG: Unsupported attributes. The 'Failsafe_FSourceAddress, Failsafe_FDestinationAddress, PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation' attributes could not be called for the device 'CPU display_1'.
-15.01.2025 12:37:15 PM: DEBUG: Unsupported attributes. The 'Failsafe_FSourceAddress, Failsafe_FDestinationAddress, PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation' attributes could not be called for the device 'Card reader/writer_1'.
-15.01.2025 12:37:15 PM: DEBUG: Unsupported attributes. The 'Failsafe_FSourceAddress, Failsafe_FDestinationAddress, PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation' attributes could not be called for the device 'OPC UA_1'.
-15.01.2025 12:37:15 PM: DEBUG: Unsupported attributes. The 'InterfaceLabel, InterfaceAssignmentType' attributes could not be called for the device 'PROFINET interface_1'.
-15.01.2025 12:37:15 PM: DEBUG: Unsupported attributes. The 'Failsafe_FSourceAddress, Failsafe_FDestinationAddress, PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation' attributes could not be called for the device 'PROFINET interface_1'.
-15.01.2025 12:37:15 PM: DEBUG: Unsupported attributes. The 'TypeName' attributes could not be called for the device 'Port_1'.
-15.01.2025 12:37:15 PM: DEBUG: Unsupported attributes. The 'Failsafe_FSourceAddress, Failsafe_FDestinationAddress, PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation' attributes could not be called for the device 'Port_1'.
-15.01.2025 12:37:15 PM: DEBUG: Unsupported attributes. The 'TypeName' attributes could not be called for the device 'Port_2'.
-15.01.2025 12:37:15 PM: DEBUG: Unsupported attributes. The 'Failsafe_FSourceAddress, Failsafe_FDestinationAddress, PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation' attributes could not be called for the device 'Port_2'.
-15.01.2025 12:37:15 PM: DEBUG: Unsupported attributes. The 'InterfaceLabel, InterfaceAssignmentType' attributes could not be called for the device 'PROFINET interface_2'.
-15.01.2025 12:37:15 PM: DEBUG: Unsupported attributes. The 'Failsafe_FSourceAddress, Failsafe_FDestinationAddress, PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation' attributes could not be called for the device 'PROFINET interface_2'.
-15.01.2025 12:37:15 PM: DEBUG: Unsupported attributes. The 'TypeName' attributes could not be called for the device 'Port_1'.
-15.01.2025 12:37:15 PM: DEBUG: Unsupported attributes. The 'Failsafe_FSourceAddress, Failsafe_FDestinationAddress, PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation' attributes could not be called for the device 'Port_1'.
-15.01.2025 12:37:15 PM: DEBUG: Unsupported attributes. The 'InterfaceLabel, InterfaceAssignmentType' attributes could not be called for the device 'DP interface_1'.
-15.01.2025 12:37:15 PM: DEBUG: Unsupported attributes. The 'Failsafe_FSourceAddress, Failsafe_FDestinationAddress, PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation' attributes could not be called for the device 'DP interface_1'.
-15.01.2025 12:37:15 PM: ERROR: device HMI_1 is being skipped. The required attribute TypeIdentifier is invalid or missing.
-15.01.2025 12:37:15 PM: DEBUG: Sinumerik One plugin export called
-15.01.2025 12:37:15 PM: DEBUG: NCU840D sl plugin export called
-15.01.2025 12:37:16 PM: INFO : The export file is being created...
-15.01.2025 12:37:16 PM: INFO : Exporting of the CAx data is completed (errors: 1, warnings: 0)
+15.01.2025 12:44:37 PM: INFO : The export is being processed
+15.01.2025 12:44:38 PM: INFO : Subnet: PN/IE_1 is being exported.
+15.01.2025 12:44:38 PM: INFO : S7-1500/ET200MP station_1 is being exported.
+15.01.2025 12:44:38 PM: INFO : Rail_0 is being exported.
+15.01.2025 12:44:38 PM: DEBUG: Unsupported attributes. The 'PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation, Failsafe_FSourceAddress, Failsafe_FDestinationAddress' attributes could not be called for the device 'Rail_0'.
+15.01.2025 12:44:38 PM: INFO : PLC_1 is being exported.
+15.01.2025 12:44:38 PM: INFO : Default tag table is being exported.
+15.01.2025 12:44:38 PM: DEBUG: Unsupported attributes. The 'Failsafe_FSourceAddress, Failsafe_FDestinationAddress, PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation' attributes could not be called for the device 'CPU display_1'.
+15.01.2025 12:44:38 PM: DEBUG: Unsupported attributes. The 'Failsafe_FSourceAddress, Failsafe_FDestinationAddress, PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation' attributes could not be called for the device 'Card reader/writer_1'.
+15.01.2025 12:44:38 PM: DEBUG: Unsupported attributes. The 'Failsafe_FSourceAddress, Failsafe_FDestinationAddress, PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation' attributes could not be called for the device 'OPC UA_1'.
+15.01.2025 12:44:38 PM: DEBUG: Unsupported attributes. The 'InterfaceLabel, InterfaceAssignmentType' attributes could not be called for the device 'PROFINET interface_1'.
+15.01.2025 12:44:38 PM: DEBUG: Unsupported attributes. The 'Failsafe_FSourceAddress, Failsafe_FDestinationAddress, PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation' attributes could not be called for the device 'PROFINET interface_1'.
+15.01.2025 12:44:38 PM: DEBUG: Unsupported attributes. The 'TypeName' attributes could not be called for the device 'Port_1'.
+15.01.2025 12:44:38 PM: DEBUG: Unsupported attributes. The 'Failsafe_FSourceAddress, Failsafe_FDestinationAddress, PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation' attributes could not be called for the device 'Port_1'.
+15.01.2025 12:44:38 PM: DEBUG: Unsupported attributes. The 'TypeName' attributes could not be called for the device 'Port_2'.
+15.01.2025 12:44:38 PM: DEBUG: Unsupported attributes. The 'Failsafe_FSourceAddress, Failsafe_FDestinationAddress, PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation' attributes could not be called for the device 'Port_2'.
+15.01.2025 12:44:38 PM: DEBUG: Unsupported attributes. The 'InterfaceLabel, InterfaceAssignmentType' attributes could not be called for the device 'PROFINET interface_2'.
+15.01.2025 12:44:38 PM: DEBUG: Unsupported attributes. The 'Failsafe_FSourceAddress, Failsafe_FDestinationAddress, PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation' attributes could not be called for the device 'PROFINET interface_2'.
+15.01.2025 12:44:38 PM: DEBUG: Unsupported attributes. The 'TypeName' attributes could not be called for the device 'Port_1'.
+15.01.2025 12:44:38 PM: DEBUG: Unsupported attributes. The 'Failsafe_FSourceAddress, Failsafe_FDestinationAddress, PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation' attributes could not be called for the device 'Port_1'.
+15.01.2025 12:44:38 PM: DEBUG: Unsupported attributes. The 'InterfaceLabel, InterfaceAssignmentType' attributes could not be called for the device 'DP interface_1'.
+15.01.2025 12:44:38 PM: DEBUG: Unsupported attributes. The 'Failsafe_FSourceAddress, Failsafe_FDestinationAddress, PlantDesignation, LocationIdentifier, InstallationDate, AdditionalInformation' attributes could not be called for the device 'DP interface_1'.
+15.01.2025 12:44:38 PM: ERROR: device HMI_1 is being skipped. The required attribute TypeIdentifier is invalid or missing.
+15.01.2025 12:44:38 PM: DEBUG: Sinumerik One plugin export called
+15.01.2025 12:44:38 PM: DEBUG: NCU840D sl plugin export called
+15.01.2025 12:44:39 PM: INFO : The export file is being created...
+15.01.2025 12:44:39 PM: INFO : Exporting of the CAx data is completed (errors: 1, warnings: 0)
