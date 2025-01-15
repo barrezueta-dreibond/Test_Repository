@@ -24,5 +24,6 @@ BEGIN
 	//Divide integers
 	#qIntDiv := #iInt_1 / #iInt_2;
 	
+	//Another test comment! Just adding random comments
 END_FUNCTION_BLOCK
 
